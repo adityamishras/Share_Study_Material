@@ -17,21 +17,33 @@ A robust web application designed for students and educators to **share, view, a
 
 ## 🖼 Screenshots
 
+| Register | Login |
+| :---: | :---: |
+| ![Dashboard Screenshot](screenshot/1.png) | ![Upload Notes Screenshot](screenshot/2.png) |
+
 | Dashboard | Upload Notes |
 | :---: | :---: |
 | ![Dashboard Screenshot](assets/dashboard.png) | ![Upload Notes Screenshot](assets/upload.png) |
 
-| Note Details | Notifications |
+| User Interface | Navigation |
 | :---: | :---: |
-| ![Note Details Screenshot](screenshots/note_details.png) | ![Notifications Screenshot](screenshots/notifications.png) |
+| ![Note Details Screenshot](screenshot/3.png) | ![Notifications Screenshot](screenshot/4.png) |
 
-| Dashboard | Upload Notes |
+| User Profile | Edit Your Profile |
 | :---: | :---: |
-| ![Dashboard Screenshot](screenshots/1.png) | ![Upload Notes Screenshot](screenshots/2.png) |
+| ![Note Details Screenshot](screenshot/5.png) | ![Notifications Screenshot](screenshot/6.png) |
 
-| Note Details | Notifications |
+| Click To View Profile Picture | Search Your Notes |
 | :---: | :---: |
-| ![Note Details Screenshot](screenshots/note_details.png) | ![Notifications Screenshot](screenshots/notifications.png) |
+| ![Note Details Screenshot](screenshot/7.png) | ![Notifications Screenshot](screenshot/8.png) |
+
+| Dark & Light Theme | Notifications |
+| :---: | :---: |
+| ![Note Details Screenshot](screenshot/9.png) | ![Notifications Screenshot](screenshot/10.png) |
+
+| User Interface | Navigation |
+| :---: | :---: |
+| ![Note Details Screenshot](screenshot/3.png) | ![Notifications Screenshot](screenshot/4.png) |
 
 ---
 
