@@ -41,9 +41,8 @@ A robust web application designed for students and educators to **share, view, a
 | :---: | :---: |
 | ![Note Details Screenshot](screenshot/9.png) | ![Notifications Screenshot](screenshot/10.png) |
 
-| User Interface | Navigation |
-| :---: | :---: |
-| ![Note Details Screenshot](screenshot/3.png) | ![Notifications Screenshot](screenshot/4.png) |
+**Comments & Replys**
+![Notifications Screenshot](screenshot/12.png)
 
 ---
 
