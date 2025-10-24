@@ -19,7 +19,15 @@ A robust web application designed for students and educators to **share, view, a
 
 | Dashboard | Upload Notes |
 | :---: | :---: |
-| ![Dashboard Screenshot](assets/dashboard.png) | ![Upload Notes Screenshot](screenshots/upload_notes.png) |
+| ![Dashboard Screenshot](assets/dashboard.png) | ![Upload Notes Screenshot](assets/upload.png) |
+
+| Note Details | Notifications |
+| :---: | :---: |
+| ![Note Details Screenshot](screenshots/note_details.png) | ![Notifications Screenshot](screenshots/notifications.png) |
+
+| Dashboard | Upload Notes |
+| :---: | :---: |
+| ![Dashboard Screenshot](screenshots/1.png) | ![Upload Notes Screenshot](screenshots/2.png) |
 
 | Note Details | Notifications |
 | :---: | :---: |
